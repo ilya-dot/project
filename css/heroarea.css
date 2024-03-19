@@ -1,0 +1,49 @@
+.heroarea .container {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.heroarea {
+    background-color: #1F98F0;
+    padding-bottom: 35px;
+    /* border: 2px solid red; */
+    /* max-width: 1600px; */
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.heroarea .promo-left {
+    margin-top: 232px;
+    margin-right: 9px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.heroarea h1 {
+    color: #fff;
+    font-family: 'Work sans';
+    font-size: 51px;
+    margin-bottom: 30px;
+    line-height: 66.3px;
+}
+
+.heroarea p {
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+.heroarea p + img {
+    margin-right: 10px;
+}
+
+.heroarea .promo-right{
+    display: inline-block;
+    margin-top: 80px;
+    width: 679px;
+    height: 784px;
+}
